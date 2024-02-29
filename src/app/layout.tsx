@@ -5,7 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Create App",
+  title: "Table Car",
+  description: "Tabela de carros para alugar"
 };
 
 export default function RootLayout({
